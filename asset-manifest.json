@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/loombarishav.github.io/static/css/main.2acfab5d.chunk.css",
-    "main.js": "/loombarishav.github.io/static/js/main.ed5ea846.chunk.js",
-    "main.js.map": "/loombarishav.github.io/static/js/main.ed5ea846.chunk.js.map",
-    "runtime-main.js": "/loombarishav.github.io/static/js/runtime-main.04cb6fcc.js",
-    "runtime-main.js.map": "/loombarishav.github.io/static/js/runtime-main.04cb6fcc.js.map",
-    "static/js/2.5ea7a7f0.chunk.js": "/loombarishav.github.io/static/js/2.5ea7a7f0.chunk.js",
-    "static/js/2.5ea7a7f0.chunk.js.map": "/loombarishav.github.io/static/js/2.5ea7a7f0.chunk.js.map",
-    "index.html": "/loombarishav.github.io/index.html",
-    "static/css/main.2acfab5d.chunk.css.map": "/loombarishav.github.io/static/css/main.2acfab5d.chunk.css.map",
-    "static/js/2.5ea7a7f0.chunk.js.LICENSE.txt": "/loombarishav.github.io/static/js/2.5ea7a7f0.chunk.js.LICENSE.txt"
+    "main.css": "/search_v1/static/css/main.2acfab5d.chunk.css",
+    "main.js": "/search_v1/static/js/main.5d4ddd4d.chunk.js",
+    "main.js.map": "/search_v1/static/js/main.5d4ddd4d.chunk.js.map",
+    "runtime-main.js": "/search_v1/static/js/runtime-main.68ce0992.js",
+    "runtime-main.js.map": "/search_v1/static/js/runtime-main.68ce0992.js.map",
+    "static/js/2.5ea7a7f0.chunk.js": "/search_v1/static/js/2.5ea7a7f0.chunk.js",
+    "static/js/2.5ea7a7f0.chunk.js.map": "/search_v1/static/js/2.5ea7a7f0.chunk.js.map",
+    "index.html": "/search_v1/index.html",
+    "static/css/main.2acfab5d.chunk.css.map": "/search_v1/static/css/main.2acfab5d.chunk.css.map",
+    "static/js/2.5ea7a7f0.chunk.js.LICENSE.txt": "/search_v1/static/js/2.5ea7a7f0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.04cb6fcc.js",
+    "static/js/runtime-main.68ce0992.js",
     "static/js/2.5ea7a7f0.chunk.js",
     "static/css/main.2acfab5d.chunk.css",
-    "static/js/main.ed5ea846.chunk.js"
+    "static/js/main.5d4ddd4d.chunk.js"
   ]
 }
