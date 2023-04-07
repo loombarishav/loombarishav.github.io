@@ -53,6 +53,8 @@ const Search = () => {
     if (searched.length >= 3) {
       const result = fuse.current.search(searched, { limit: 7 });
       setResult(result);
+    } else {
+      setResult([]);
     }
   }, [searched]);
 
